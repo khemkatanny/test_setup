@@ -12,3 +12,7 @@ _________
 
 second test after terminal worked
 ----------
+
+--------
+third test
+---------
